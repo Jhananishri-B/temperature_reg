@@ -2,7 +2,7 @@
 
 
 
-# TEMPERATURE Task           ##TEMPERATURE PREDICTOR APP LINK  -    https://temperaturereg-5bg7hfjjcau8tny9n5ftj7.streamlit.app/
+# TEMPERATURE Task           TEMPERATURE PREDICTOR APP LINK  -    https://temperaturereg-5bg7hfjjcau8tny9n5ftj7.streamlit.app/
 
 This project analyzes global temperature data using Python, pandas, and scikit-learn. It includes data preprocessing, cleaning, and machine learning modeling for temperature prediction.
 
